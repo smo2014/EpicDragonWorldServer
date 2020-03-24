@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+EpicDragonWorldServer/bin/
+EpicDragonWorldServer/obj/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
