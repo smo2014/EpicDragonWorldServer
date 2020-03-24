@@ -1,0 +1,13 @@
+PacketId: Name
+1: AccountAuthenticationResult
+2: CharacterSelectionInfoResult
+3: CharacterCreationResult
+4: CharacterDeletionResult
+5: PlayerOptionsInformation
+6: PlayerInformation
+7: NpcInformation
+8: DeleteObject
+9: Logout
+10: LocationUpdate
+11: AnimatorUpdate
+12: ChatResult
